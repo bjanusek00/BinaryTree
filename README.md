@@ -13,4 +13,4 @@ C:\Users\YOUR_USERNAME\eclipse-workspace
 
 git clone https://github.com/bjanusek00/BinaryTree.git
 ```
-Open BinaryTree in Eclipse IDE for Java Developers to run program
+Open [BinaryTree](https://en.wikipedia.org/wiki/Binary_tree) in Eclipse IDE for Java Developers to run program
